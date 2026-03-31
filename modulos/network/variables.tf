@@ -1,5 +1,5 @@
 variable "project_name" {
-  description = "terraform_mba_net"
+  description = "Nome do projeto"
   type        = string
 }
 
