@@ -1,4 +1,4 @@
-# terraform_mba
+# Projeto do MBA de Engenharia de Dados Mackenzie - Terraform
 
 Infraestrutura AWS com Terraform para publicar uma aplicação web simples em alta disponibilidade.
 
