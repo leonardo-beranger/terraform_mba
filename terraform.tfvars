@@ -9,7 +9,7 @@ az_a                 = "us-east-1a"
 az_b                 = "us-east-1b"
 
 instance_type        = "t2.micro"
-ami_id               = "ami-xxxxxxxxxxxxxxxxx"
+ami_id               = "ami-051f8a213df8bc089"
 
 server_port          = 80
 
